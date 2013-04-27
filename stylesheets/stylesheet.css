@@ -300,12 +300,16 @@ Full-Width Styles
   background: linear-gradient(top, #373737, #212121);
 }
 
+#header_blueprint {
+  background: url('../images/header_blueprint2.png') no-repeat;
+}
+
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
 }
 
 #project_title {
-  margin: 0;
+  margin: 20px 0 0 220px;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
@@ -313,6 +317,7 @@ Full-Width Styles
 }
 
 #project_tagline {
+  margin: 0 0 0 220px;
   color: #fff;
   font-size: 24px;
   font-weight: 300;
